@@ -1,6 +1,6 @@
 {
-  "name": "triple-beam",
-  "version": "1.4.1",
+  "name": "@orbit-online/triple-beam",
+  "version": "1.4.2-bun-fix2",
   "description": "Definitions of levels for logging purposes & shareable Symbol constants.",
   "main": "index.js",
   "scripts": {
@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/winstonjs/triple-beam#readme",
   "devDependencies": {
-    "assume": "^2.0.1",
     "@dabh/eslint-config-populist": "^5.0.0",
+    "assume": "^2.0.1",
     "mocha": "^10.2.0",
     "nyc": "^15.1.0",
     "typescript": "^5.1.6"
