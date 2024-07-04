@@ -1,6 +1,6 @@
 {
   "name": "@orbit-online/triple-beam",
-  "version": "1.4.2-bun-fix2",
+  "version": "1.4.2-bun-fix3",
   "description": "Definitions of levels for logging purposes & shareable Symbol constants.",
   "main": "index.js",
   "types": "index.d.ts",
